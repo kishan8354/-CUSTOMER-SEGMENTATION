@@ -1,5 +1,5 @@
 # 🛒 Advanced Customer Intelligence Engine
-### Thesis-Level E-Commerce Segmentation · RFM · CLV · Churn · Cohort · Affinity · Ensemble Clustering
+### E-Commerce Segmentation · RFM · CLV · Churn · Cohort · Affinity · Ensemble Clustering
 
 <p align="center">
   <img src="fig07_health_dashboard.png" alt="Health Dashboard" width="100%"/>
